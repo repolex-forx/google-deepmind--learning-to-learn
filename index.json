@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "learning-to-learn",
+  "versions": [
+    {
+      "commit": "f3c1a8d176b8ea7cc60478bfcfdd10a7a52fd296",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:43:21.825301+00:00"
+    }
+  ]
+}
