@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "learning-to-learn",
+  "versions": [
+    {
+      "commit": "f3c1a8d176b8ea7cc60478bfcfdd10a7a52fd296",
+      "parsed_at": "2026-11-06T07:41:38.556161+00:00",
+      "filetree": "filetree/f3c1a8d176b8ea7cc60478bfcfdd10a7a52fd296.nq.gz",
+      "blobs": [
+        "blob/553556f7b88635d69c65556904baa42655fc0321.nq.gz",
+        "blob/49b38c79e7a6607c26843f18f4ac9030e92ab23e.nq.gz",
+        "blob/95bf9bb1a64b499e0ed00589ee85e484b0698baa.nq.gz",
+        "blob/145c0ceb50a8792cd425bc7f455aab118220dbaa.nq.gz",
+        "blob/592cfbfb77b3d625edf1bd334b4bfa0f2d3c05c6.nq.gz",
+        "blob/53cb5ed8496ffa09b83e836a3f988e2131700e88.nq.gz",
+        "blob/08fcee978863c7096955ae73c1e416d63d93ca23.nq.gz",
+        "blob/2d9d86eafc3eb689eff1a67fce16d2e5664fd3a9.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/c4f2880ea692e95e62eb7da53f17e18aedabc1d7.nq.gz",
+        "blob/c0bb694235687fb7fa23e75d6ce9eecc596099b5.nq.gz",
+        "blob/06c7bf08d59751f076e2b07a314dc77781a7205a.nq.gz",
+        "blob/102063cf4c7262144e1e2406e38f580c7c9a017d.nq.gz",
+        "blob/038e66a8985a049c4191a695597fd74789028606.nq.gz",
+        "blob/1a09deb2d3e38931e5b9463399a9f36fc0d92667.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
